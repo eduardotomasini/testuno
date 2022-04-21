@@ -5,6 +5,7 @@ public class Puntos {
     private double y1;
     private double x2;
     private double y2;
+    private String prueba;
 
     public Puntos() {
     }
